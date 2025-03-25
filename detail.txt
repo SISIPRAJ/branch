@@ -1,4 +1,13 @@
 NAME:SISIP RAJ
 ROLLNO:23BCAC59
+<<<<<<< HEAD
 DEPT:COMPUTER SCIENCE
 changes from branch 1
+=======
+<<<<<<< HEAD
+=======
+DEPT:COMPUTER SCIENCE
+college : kjc
+>>>>>>> master
+i am waitinggggggg
+>>>>>>> main
