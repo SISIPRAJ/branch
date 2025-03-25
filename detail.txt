@@ -1,2 +1,7 @@
 NAME:SISIP RAJ
 ROLLNO:23BCAC59
+<<<<<<< HEAD
+=======
+DEPT:COMPUTER SCIENCE
+college : kjc
+>>>>>>> master
